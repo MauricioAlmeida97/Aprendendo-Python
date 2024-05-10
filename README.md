@@ -4,5 +4,4 @@ aprendizado aqui
 
 Apresentação:
 
-Sou José Mauricio, estudante de engenharia elétrica que não se identificou com o ramo, ainda estou estagiando na área, mas estou mais do que motivado para transicionar a minha carreira para a área
-de dados, levando em consideração a meu gosto por cálculo, estatística e por matemática em geral.
+Sou José Mauricio, estudante de engenharia elétrica(bacharelado) e ciência de dados (tecnólogo) que não se identificou com o ramo, ainda estou estagiando na área, mas estou mais do que motivado para transicionar a minha carreira para a área de dados, levando em consideração a meu gosto por cálculo, estatística e por matemática em geral. E porei aqui todos os meus achados e aprendizados (de aleatório à ordenado) para que VOCÊ ache, de forma mais estruturada possível, o que estou estudando e aplicando em cenários (ainda hipotéticos) 
