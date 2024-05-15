@@ -17,7 +17,7 @@ print('acabou')
 
 """ EXEMPLO 2 """
 
- contador = 0
+contador = 0
 
 while contador <= 10:
     print(contador)
