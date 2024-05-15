@@ -4,7 +4,7 @@ while (enquanto)
 Executa um ação enquanto uma condição for verdadeira
 """
 """EXEMPLO_1"""
-""" condicao = True
+condicao = True
 
 while condicao:
     nome = input("Digite seu nome: ")
@@ -13,9 +13,11 @@ while condicao:
     if nome == 'sair':
               break
     
-print('acabou') """
+print('acabou')
 
-contador = 0
+""" EXEMPLO 2 """
+
+ contador = 0
 
 while contador <= 10:
     print(contador)
@@ -23,4 +25,26 @@ while contador <= 10:
     
 print("acabou")
 
+ 
+""" EXEMPLO 3"""
+contador = 0
+
+while contador <= 100:
+    contador += 1
+
+    if contador == 6:
+        print ("Não vou mostrar o 6.")
+        continue
+
+    if contador >= 10 and contador <= 27:
+        print("Não vou mostrar o", contador)
+        continue    # continua o código, depois da condição estabelecida, 
+        # neste caso.
+    
+    print(contador)
+
+    if contador == 40:
+        break
+
+print ("Acabou!")
 
